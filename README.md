@@ -8,5 +8,4 @@ Programing_skills = {
   tools: ''Anaconda Navigator, Amazon Sagemaker, Google Colab, VS Code, Jupyter Notebook, R Studio''
 }
 ```
-You can fin me:
-- [Linkedin](https://www.linkedin.com/in/santiago-escamilla-del-angel-93395627b/)
+You can fin me on [Linkedin](https://www.linkedin.com/in/santiago-escamilla-del-angel-93395627b/)
