@@ -1,6 +1,6 @@
 ### Hi! Im Santiago
 
-
+![Me for github](https://github.com/Scama99/Scama99/assets/117554261/a2e2fb98-16c1-4ff3-824c-c88d6ab170bf)
 
 ``` py
 inf_Santiago = {
