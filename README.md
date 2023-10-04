@@ -6,7 +6,7 @@ I'm a Physics graduate student currently specializing in Data Science and Artifi
 
 ``` py
 Programing = {
-  code: ''Python, Julia, R, C, SQL''
+  code: ''Python, Julia, R, SQL''
   tools: ''Anaconda Navigator, Amazon Sagemaker, Google Colab, VS Code, Jupyter Notebook, R Studio''
 }
 ```
