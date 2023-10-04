@@ -1,6 +1,6 @@
 ### Hi! Im Santiago
 
-![Me for github](https://github.com/Scama99/Scama99/assets/117554261/a2e2fb98-16c1-4ff3-824c-c88d6ab170bf)
+![Me for github](https://user-images.githubusercontent.com/117554261/272688290-b7b2a65d-4dbe-46df-bae4-845c26b6fd2c.png)
 
 I'm a Physics graduate student specializing in Data Science and Artificial Intelligence, who has developed a strong interest in programming. I'm looking for opportunities to integrate both my professional education and my technical IT knowledge.
 
